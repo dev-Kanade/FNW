@@ -95,6 +95,26 @@
         {
             "name":"サイレンサー付きサブマシンガン",
             "url":"https://cdnmerofn.merofn.com/cdn/smg/0001.png"
+        },
+        {
+            "name":"コンパクトサブマシンガン",
+            "url":"https://cdnmerofn.merofn.com/cdn/smg/0002.png"
+        },
+        {
+            "name":"マシンサブマシンガン",
+            "url":"https://cdnmerofn.merofn.com/cdn/smg/0003.png"
+        },
+        {
+            "name":"タムザリアン ツインマグサブマシンガン",
+            "url":"https://cdnmerofn.merofn.com/cdn/smg/0004.png"
+        },
+        {
+            "name":"強化型コンパクトサブマシンガン",
+            "url":"https://cdnmerofn.merofn.com/cdn/smg/0005.png"
+        },
+        {
+            "name":" ファイブガン",
+            "url":"https://cdnmerofn.merofn.com/cdn/smg/0006.png"
         }
     ],
     "longdistance":[
