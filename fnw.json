@@ -97,7 +97,24 @@
             "url":"https://cdnmerofn.merofn.com/cdn/smg/0001.png"
         }
     ],
-    "longdistance":[],
+    "longdistance":[
+        {
+            "name":"サイレンサー付きスナイパーライフル",
+            "url":"https://cdnmerofn.merofn.com/cdn/longdistance/0001.png"
+        },
+        {
+            "name":"ハンティングライフル",
+            "url":"https://cdnmerofn.merofn.com/cdn/longdistance/0002.png"
+        },
+        {
+            "name":"ヘビーインパクトスナイパーライフル",
+            "url":"https://cdnmerofn.merofn.com/cdn/longdistance/0003.png"
+        },
+        {
+            "name":"ローレス スティンクライフル",
+            "url":"https://cdnmerofn.merofn.com/cdn/longdistance/0004.png"
+        }
+    ],
     "recoveryitem":[
         {
             "name":"スラープジュース",
