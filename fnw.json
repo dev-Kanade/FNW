@@ -98,7 +98,12 @@
         }
     ],
     "longdistance":[],
-    "recoveryitem":[],
+    "recoveryitem":[
+        {
+            "name":"スラープジュース",
+            "url":"https://cdnmerofn.merofn.com/cdn/recoveryitem/0001.png"
+        }
+    ],
     "shortdistance":[],
     "othersitem":[
         {
