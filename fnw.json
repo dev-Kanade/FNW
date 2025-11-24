@@ -121,7 +121,28 @@
             "url":"https://cdnmerofn.merofn.com/cdn/recoveryitem/0001.png"
         }
     ],
-    "shortdistance":[],
+    "shortdistance":[
+        {
+            "name":"タイフーンブレード",
+            "url":"https://cdnmerofn.merofn.com/cdn/shortdistance/0001.png"
+        },
+        {
+            "name":"ニッキャッバー",
+            "url":"https://cdnmerofn.merofn.com/cdn/shortdistance/0002.png"
+        },
+        {
+            "name":"ニトロフィスト",
+            "url":"https://cdnmerofn.merofn.com/cdn/shortdistance/0003.png"
+        },
+        {
+            "name":"ハデスの鎖",
+            "url":"https://cdnmerofn.merofn.com/cdn/shortdistance/0004.png"
+        },
+        {
+            "name":"ブームボルト",
+            "url":"https://cdnmerofn.merofn.com/cdn/shortdistance/0003.png"
+        }
+    ],
     "othersitem":[
         {
             "name":"グラップルグローブ",
