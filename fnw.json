@@ -7,6 +7,42 @@
         {
             "name":"ゲートキーパーショットガン",
             "url":"https://cdnmerofn.merofn.com/cdn/shotgun/0002.png"
+        },
+        {
+            "name":"サンダーショットガン",
+            "url":"https://cdnmerofn.merofn.com/cdn/shotgun/0003.png"
+        },
+        {
+            "name":"センチネルポンプショットガン",
+            "url":"https://cdnmerofn.merofn.com/cdn/shotgun/0004.png"
+        },
+        {
+            "name":"タクティカルショットガン(旧レア以下、現在は統一)",
+            "url":"https://cdnmerofn.merofn.com/cdn/shotgun/0005.png"
+        },
+        {
+            "name":"タクティカルショットガン(旧エピック以上)",
+            "url":"https://cdnmerofn.merofn.com/cdn/shotgun/0006.png"
+        },
+        {
+            "name":"タブ",
+            "url":"https://cdnmerofn.merofn.com/cdn/shotgun/0007.png"
+        },
+        {
+            "name":"チャージショットガン(エピック以上)",
+            "url":"https://cdnmerofn.merofn.com/cdn/shotgun/0008.png"
+        },
+        {
+            "name":"チャージショットガン(レア以下)",
+            "url":"https://cdnmerofn.merofn.com/cdn/shotgun/0009.png"
+        },
+        {
+            "name":"ハボックポンプショットガン",
+            "url":"https://cdnmerofn.merofn.com/cdn/shotgun/0010.png"
+        },
+        {
+            "name":"レンジャーショットガン",
+            "url":"https://cdnmerofn.merofn.com/cdn/shotgun/0011.png"
         }
     ]
 }
