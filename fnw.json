@@ -1,8 +1,12 @@
 {
     "shotgun":[
         {
-            "name":"",
-            "url":""
+            "name":"オートショットガン",
+            "url":"https://cdnmerofn.merofn.com/cdn/shotgun/0001.png"
+        },
+        {
+            "name":"ゲートキーパーショットガン",
+            "url":"https://cdnmerofn.merofn.com/cdn/shotgun/0002.png"
         }
     ]
 }
