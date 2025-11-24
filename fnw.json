@@ -100,5 +100,30 @@
     "longdistance":[],
     "recoveryitem":[],
     "shortdistance":[],
-    "othersitem":[]
+    "othersitem":[
+        {
+            "name":"グラップルグローブ",
+            "url":"https://cdnmerofn.merofn.com/cdn/othersitem/0001.png"
+        },
+        {
+            "name":"シールドバブルJr.",
+            "url":"https://cdnmerofn.merofn.com/cdn/othersitem/0002.png"
+        },
+        {
+            "name":"ジェットパック",
+            "url":"https://cdnmerofn.merofn.com/cdn/othersitem/0003.png"
+        },
+        {
+            "name":"ショックウェーブ",
+            "url":"https://cdnmerofn.merofn.com/cdn/othersitem/0004.png"
+        },
+        {
+            "name":"バルーン",
+            "url":"https://cdnmerofn.merofn.com/cdn/othersitem/0005.png"
+        },
+        {
+            "name":"ポータブル裂け目",
+            "url":"https://cdnmerofn.merofn.com/cdn/othersitem/0006.png"
+        }
+    ]
 }
