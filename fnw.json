@@ -67,5 +67,14 @@
             "url":"https://cdnmerofn.merofn.com/cdn/AR/0005.png"
         }
     ],
-    "explosion":[]
+    "explosion":[
+        {
+            "name":"ロケットランチャー(レア以下)",
+            "url":"https://cdnmerofn.merofn.com/cdn/explosion/0001.png"
+        },
+        {
+            "name":"ロケットランチャー(エピック以上)",
+            "url":"https://cdnmerofn.merofn.com/cdn/explosion/0002.png"
+        }
+    ]
 }
