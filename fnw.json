@@ -103,6 +103,22 @@
         {
             "name":"ローレスショックウェーブロケットランチャー",
             "url":"https://cdnmerofn.merofn.com/cdn/explosion/0003.png"
+        },
+        {
+            "name":"スウォームストライク",
+            "url":"https://cdnmerofn.merofn.com/cdn/explosion/0004.png"
+        },
+        {
+            "name":"パンプキンランチャー",
+            "url":"https://cdnmerofn.merofn.com/cdn/explosion/0005.png"
+        },
+        {
+            "name":"フレアガン",
+            "url":"https://cdnmerofn.merofn.com/cdn/explosion/0006.png"
+        },
+        {
+            "name":"バグブラスター",
+            "url":"https://cdnmerofn.merofn.com/cdn/explosion/0007.png"
         }
     ],
     "pistol":[
