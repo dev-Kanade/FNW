@@ -90,5 +90,11 @@
             "name":"デュアルピストル",
             "url":"https://cdnmerofn.merofn.com/cdn/pistol/0002.png"
         }
+    ],
+    "smg":[
+        {
+            "name":"サイレンサー付きサブマシンガン",
+            "url":"https://cdnmerofn.merofn.com/cdn/smg/0001.png"
+        }
     ]
 }
