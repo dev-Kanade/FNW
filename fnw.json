@@ -119,6 +119,42 @@
         {
             "name":"スラープジュース",
             "url":"https://cdnmerofn.merofn.com/cdn/recoveryitem/0001.png"
+        },
+        {
+            "name":"ミニポーション",
+            "url":"https://cdnmerofn.merofn.com/cdn/recoveryitem/0002.png"
+        },
+        {
+            "name":"ミニポーション(レガシー)",
+            "url":"https://cdnmerofn.merofn.com/cdn/recoveryitem/0003.png"
+        },
+        {
+            "name":"シールドポーション",
+            "url":"https://cdnmerofn.merofn.com/cdn/recoveryitem/0004.png"
+        },
+        {
+            "name":"シールドポーション(レガシー)",
+            "url":"https://cdnmerofn.merofn.com/cdn/recoveryitem/0005.png"
+        },
+        {
+            "name":"包帯",
+            "url":"https://cdnmerofn.merofn.com/cdn/recoveryitem/0006.png"
+        },
+        {
+            "name":"チャグチャグ",
+            "url":"https://cdnmerofn.merofn.com/cdn/recoveryitem/0007.png"
+        },
+        {
+            "name":"フロッパー",
+            "url":"https://cdnmerofn.merofn.com/cdn/recoveryitem/0008.png"
+        },
+        {
+            "name":"医療スプレー",
+            "url":"https://cdnmerofn.merofn.com/cdn/recoveryitem/0009.png"
+        },
+        {
+            "name":"神々のバナナ",
+            "url":"https://cdnmerofn.merofn.com/cdn/recoveryitem/0010.png"
         }
     ],
     "shortdistance":[
