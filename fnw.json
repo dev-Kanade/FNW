@@ -75,6 +75,10 @@
         {
             "name":"ロケットランチャー(エピック以上)",
             "url":"https://cdnmerofn.merofn.com/cdn/explosion/0002.png"
+        },
+        {
+            "name":"ローレスショックウェーブロケットランチャー",
+            "url":"https://cdnmerofn.merofn.com/cdn/explosion/0003.png"
         }
     ]
 }
