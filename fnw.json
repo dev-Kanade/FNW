@@ -85,6 +85,10 @@
         {
             "name":"サイレンサー付きピストル",
             "url":"https://cdnmerofn.merofn.com/cdn/pistol/0001.png"
+        },
+        {
+            "name":"デュアルピストル",
+            "url":"https://cdnmerofn.merofn.com/cdn/pistol/0002.png"
         }
     ]
 }
