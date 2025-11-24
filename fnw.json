@@ -44,5 +44,23 @@
             "name":"レンジャーショットガン",
             "url":"https://cdnmerofn.merofn.com/cdn/shotgun/0011.png"
         }
+    ],
+    "AR":[
+        {
+            "name":"コンバットアサルトライフル",
+            "url":"https://cdnmerofn.merofn.com/cdn/AR/0001.png"
+        },
+        {
+            "name":"ストライカーアサルトライフル",
+            "url":"https://cdnmerofn.merofn.com/cdn/AR/0002.png"
+        },
+        {
+            "name":"ドラムガン(MOD)",
+            "url":"https://cdnmerofn.merofn.com/cdn/AR/0003.png"
+        },
+        {
+            "name":"ドラムガン",
+            "url":"https://cdnmerofn.merofn.com/cdn/AR/0004.png"
+        }
     ]
 }
