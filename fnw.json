@@ -81,5 +81,10 @@
             "url":"https://cdnmerofn.merofn.com/cdn/explosion/0003.png"
         }
     ],
-    "pistol":[]
+    "pistol":[
+        {
+            "name":"サイレンサー付きピストル",
+            "url":"https://cdnmerofn.merofn.com/cdn/pistol/0001.png"
+        }
+    ]
 }
