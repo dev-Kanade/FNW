@@ -89,6 +89,22 @@
         {
             "name":"エラディケーター ホップロックフェーリーアサルトライフル",
             "url":"https://cdnmerofn.merofn.com/cdn/AR/0011.png"
+        },
+        {
+            "name":"インファントリーライフル",
+            "url":"https://cdnmerofn.merofn.com/cdn/AR/0012.png"
+        },
+        {
+            "name":"サイレンサー付きアサルトライフル",
+            "url":"https://cdnmerofn.merofn.com/cdn/AR/0013.png"
+        },
+        {
+            "name":"ビッグなアサルトライフル",
+            "url":"https://cdnmerofn.merofn.com/cdn/AR/0014.png"
+        },
+        {
+            "name":"レッドアイ カランバ アサルトライフル",
+            "url":"https://cdnmerofn.merofn.com/cdn/AR/0015.png"
         }
     ],
     "explosion":[
