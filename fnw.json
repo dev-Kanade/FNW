@@ -105,6 +105,22 @@
         {
             "name":"レッドアイ カランバ アサルトライフル",
             "url":"https://cdnmerofn.merofn.com/cdn/AR/0015.png"
+        },
+        {
+            "name":"アサルトライフル",
+            "url":"https://cdnmerofn.merofn.com/cdn/AR/0016.png"
+        },
+        {
+            "name":"バーストアサルトライフル",
+            "url":"https://cdnmerofn.merofn.com/cdn/AR/0017.png"
+        },
+        {
+            "name":"レッドアイ アサルトライフル",
+            "url":"https://cdnmerofn.merofn.com/cdn/AR/0018.png"
+        },
+        {
+            "name":"コンバットアサルトライフル",
+            "url":"https://cdnmerofn.merofn.com/cdn/AR/0019.png"
         }
     ],
     "explosion":[
