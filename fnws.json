@@ -2,6 +2,15 @@
     "AR":[
         {
             "name":"",
+            "rarity":[
+                "comoon",
+                "uncomoon",
+                "rare",
+                "epic",
+                "legend",
+                "mithc",
+                "exotic"
+            ],
             "meta":{
                 "comoon":""
             }
